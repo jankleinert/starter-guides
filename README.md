@@ -37,7 +37,7 @@ From within the top level of the Git repository, now run:
 ./.workshop/scripts/deploy-spawner.sh
 ```
 
-The name of the deployment will be ``lab-build-an-operator``.
+The name of the deployment will be ``lab-getting-started``.
 
 You can determine the hostname for the URL to access the workshop by running:
 

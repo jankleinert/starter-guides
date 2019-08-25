@@ -1,6 +1,6 @@
 ---
-name: Starter labs (Javascript)
-description: Developing Javascript Applications on OpenShift - Starter Lab
+name: Starter labs (JavaScript)
+description: Developing JavaScript Applications on OpenShift - Starter Lab
 
 modules:
   activate:

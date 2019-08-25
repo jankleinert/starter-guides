@@ -22,5 +22,7 @@ quota_persistentvolumeclaims: 10
 quota_services: 30
 
 # Homeroom location
-workshop_repo: https://github.com/openshift-labs/starter-guides
-workshop_branch: ocp-4.2
+#workshop_repo: https://github.com/openshift-labs/starter-guides
+#workshop_branch: ocp-4.2
+workshop_repo: https://github.com/jankleinert/starter-guides
+workshop_branch: ocp-4.2-homeroom
